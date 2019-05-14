@@ -1,7 +1,7 @@
-@charset "utf-8";
+﻿@charset "utf-8";
 html{-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;-webkit-tap-highlight-color:rgba(0,0,0,0); font-family: 'Microsoft Yahei', '微软雅黑', Arial, sans-serif; font-weight: normal;}
 body,ul,li,dt,dl,p,h1,h2,h3,h4,h5,h6,div,html,form,select,option,table,tr,td,dt,dl,dd,span,input,i,em,b,br,section,header,footer,nav,menu,aside,audio,video,canvas,svg,details,figure,figcaption,summary,hgroup,pre,sub,sup,button,textarea,input{margin:0;padding:0;color:inherit;}
-body{cursor: url(http://www.sanshi30.cn/static/userImages/huaji.png), default; position: relative; color: #4d4d4d; background-color: #fff;  word-break: break-all; word-wrap:break-word; font-weight: 400;  -webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale; font: 14px/1.4em 'Helvetica Neue', Helvetica, 'Microsoft Yahei', Arial, sans-serif;} 
+body{cursor: url(https://cdn.jsdelivr.net/gh/Tomotoes/images/blog/pointer.cur), default; position: relative; color: #4d4d4d; background-color: #fff;  word-break: break-all; word-wrap:break-word; font-weight: 400;  -webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale; font: 14px/1.4em 'Helvetica Neue', Helvetica, 'Microsoft Yahei', Arial, sans-serif;} 
 html,body{box-sizing: border-box;width: 100%;height: 100%;overflow: hidden;}
 input,button{overflow: visible;vertical-align:middle;outline:none}
 input[type="submit"],input[type="reset"],input[type="button"],input[type="text"],input[type="password"]{-webkit-appearance:none;outline:none}
